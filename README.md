@@ -18,3 +18,6 @@ desconto e período de validade.
 vários produtos.
 • A tabela itemvendaproduto representa os produtos vendidos em cada venda,
 com quantidade e preço unitário.
+
+
+Paula Victória / Sophia Santos / Wslany Amorim
